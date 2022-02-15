@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmedmalek185
-- 👀 I’m interested in business and market analytics
+- 👀 I’m interested in marketing and business analytics
 - 🌱 I’m currently learning Predictive Analytics for Business Nanodegree Program
 - 💞️ I’m looking to collaborate on any relevant projects
 - 📫 How to reach me @ahmedmalek185 here, twitter or Linkedin
