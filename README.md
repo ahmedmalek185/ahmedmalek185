@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ahmedmalek185
-- 👀 I’m interested in marketing and business analytics
-- 🌱 I’m currently learning Predictive Analytics for Business Nanodegree Program
+- 👀 I’m interested in Data Science and Analytics for Business Decsision Making
+- 🌱 I have completed nanodegrees in Predictive Analytics for Business, and Marketing Analytics on Udacity.com
 - 💞️ I’m looking to collaborate on any relevant projects
-- 📫 How to reach me @ahmedmalek185 here, twitter or Linkedin
+- 📫 You can reach me @ahmedmalek185 here, twitter or Linkedin
 
 <!---
 ahmedmalek185/ahmedmalek185 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
