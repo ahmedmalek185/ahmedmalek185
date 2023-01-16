@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmedmalek185
+- 👋 Hi, I’m Ahmed M. Hassan
 - 👀 I’m interested in Data Science and Analytics for Business Decision Making
 - 🌱 I have completed nanodegrees in Predictive Analytics for Business, and Marketing Analytics on Udacity.com
 - 💞️ I’m looking to collaborate on any relevant projects
