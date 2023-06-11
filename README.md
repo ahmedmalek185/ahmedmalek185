@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed M. Hassan
-- 👀 I’m interested in Data Science and Analytics for Business Decision Making
+- 👀 I’m interested in Data Analytics and Mchine Learning for driving Business Success.
 - 🌱 I have completed nanodegrees in Predictive Analytics for Business, and Marketing Analytics on Udacity.com
 - 💞️ I’m looking to collaborate on any relevant projects
 - 📫 You can reach me @ahmedmalek185 here, twitter or Linkedin
