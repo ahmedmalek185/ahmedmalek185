@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed M. Hassan
-- 👀 I’m a Marketing and Data Analytics Professional.
+- 👀 I’m an AI and Data Analytics Professional.
 - 🌱 I have completed degrees in Engineering, Predictive Analytics, and Marketing Analytics, with an extensive experience in Marketing and Energy Projects.
 - 💞️ I’m looking to collaborate on any relevant Data and/or ML projects.
 - 📫 You can reach me @ahmedmalek185 here, twitter or Linkedin
